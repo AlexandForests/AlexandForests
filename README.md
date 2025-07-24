@@ -1,13 +1,11 @@
-Hi, I'm Alex 👋
+Hi, I'm Alex & Forests
 
-Interested in Robotics, Computer Hardware, and Game Design
+I do a lot of funny things
 
-I am currently looking experience as much as I can to further my passions
-
-You can reach me @ alex.woods.and.forests@gmail.com
+You can reach me @ alex.forests.biz@gmail.com
 
 
-my portfolio website: https://sites.google.com/view/alex-woods-portfolio
+my HS portfolio website: https://sites.google.com/view/alex-woods-portfolio
 <!---
 AlexandForests/AlexandForests is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
