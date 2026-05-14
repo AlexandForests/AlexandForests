@@ -1,13 +1,33 @@
-Hi, I'm Alex & Forests
+# hey, I'm Alex!
 
-I do a lot of funny things
+hardware tinkerer · homelab builder · linux nerd
 
-You can reach me @ alexwoods.me
+Bay Area, CA &nbsp;|&nbsp;  alex@alexwoods.me
 
-CalbrightCC
+---
 
-portfolio @ alexwoods.me
-<!---
-AlexandForests/AlexandForests is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## what I'm running
+
+### homelab — Ryzen 9 5900X · RTX 4080 · 48GB DDR4 · Ubuntu
+| category | services |
+|----------|----------|
+| media | Jellyfin · Plex · Jellystat |
+| AI / LLM | Ollama · Open WebUI | PaulAI |
+| monitoring | Grafana · Prometheus · cAdvisor · node-exporter · DCGM exporter |
+| infra | Homepage · n8n · Gluetun |
+| game server | Minecraft (neoforge, fabric, cross platform) · TF2 · Terraria | 
+
+### macnode — MacBook Pro · Intel i7-3820QM · GT 650M · 8GB RAM
+| category | services |
+|----------|----------|
+| network | AdGuard Home · Unbound |
+| monitoring | Uptime Kuma |
+
+### pi — Raspberry Pi 4
+| category | services |
+|----------|----------|
+| network | AdGuard Home |
+
+---
+
+ alex@alexwoods.me
