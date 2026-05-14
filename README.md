@@ -17,13 +17,13 @@ Bay Area, CA &nbsp;|&nbsp;  alex@alexwoods.me
 | infra | Homepage · n8n · Gluetun |
 | game server | Minecraft (neoforge, fabric, cross platform) · TF2 · Terraria | 
 
-### macnode — MacBook Pro · Intel i7-3820QM · GT 650M · 8GB RAM
+### macnode — MacBook Pro · Intel i7-3820QM · GT 650M · 8GB RAM · Debian
 | category | services |
 |----------|----------|
 | network | AdGuard Home · Unbound |
 | monitoring | Uptime Kuma |
 
-### pi — Raspberry Pi 4
+### pi — Raspberry Pi 4 · Debian
 | category | services |
 |----------|----------|
 | network | AdGuard Home |
