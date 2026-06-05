@@ -1,6 +1,6 @@
 # hey, I'm Alex!
 
-hardware tinkerer · homelab builder · linux nerd
+hardware tinkerer · homelab builder · project unfinisher
 
 Bay Area, CA &nbsp;|&nbsp;  alex@alexwoods.me
 
